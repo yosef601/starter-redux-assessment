@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dogface/static/css/main.9206e8f9.css",
-    "main.js": "/dogface/static/js/main.f60930d4.js",
-    "index.html": "/dogface/index.html",
-    "main.9206e8f9.css.map": "/dogface/static/css/main.9206e8f9.css.map",
-    "main.f60930d4.js.map": "/dogface/static/js/main.f60930d4.js.map"
+    "main.css": "/dogfaceweb/static/css/main.9206e8f9.css",
+    "main.js": "/dogfaceweb/static/js/main.f60930d4.js",
+    "index.html": "/dogfaceweb/index.html",
+    "main.9206e8f9.css.map": "/dogfaceweb/static/css/main.9206e8f9.css.map",
+    "main.f60930d4.js.map": "/dogfaceweb/static/js/main.f60930d4.js.map"
   },
   "entrypoints": [
     "static/css/main.9206e8f9.css",
